@@ -3,9 +3,9 @@ main:
     url: /posts/
   - title: "Hands-On"
     url: /hands-on/
-  - title: "Por Categorias"
+  - title: "Categorias"
     url: /categories/
-  - title: "Por Tags"
+  - title: "Tags"
     url: /tags/
   - title: "Sobre"
     url: /about/
